@@ -1,0 +1,31 @@
+customer_id,name,email,gender,age,location
+1,John Doe,john.doe@example.com,M,30,New York
+2,Jane Smith,jane.smith@example.com,F,28,los angeles
+3,Mike Brown,mike.brown@example.com,M,,Chicago
+4,Lisa Ray,,F,35,San Francisco
+5,Tom Hanks,tom.hanks@example.com,M,45,New york
+6,Sara Connor,sara.connor@example.com,F,32,Boston
+7,David Lee,david.lee@example.com,M,40,Miami
+8,Emma Watson,emma.watson@example.com,F,27,London
+9,Mark Davis,mark.davis@example,M,38,Chicago
+10,Anna Bell,anna.bell@example.com,F,29,san francisco
+11,Chris Evans,chris.evans@example.com,M,35,New York
+12,Natalie Portman,natalie.portman@example.com,F,31,Los Angeles
+13,Robert Downey,robert.downey@example.com,M,55,chicago
+14,Scarlett Johansson,scarlett.johansson@example.com,F,36,Los Angeles
+15,Samuel L Jackson,samuel.jackson@example.com,M,72,new york
+16,Megan Fox,megan.fox@example.com,F,34,Los Angeles
+17,Will Smith,will.smith@example.com,M,52,Philadelphia
+18,Emma Stone,emma.stone@example.com,F,33,Boston
+19,Leonardo DiCaprio,leonardo.dicaprio@example.com,M,47,Los Angeles
+20,Jennifer Lawrence,jennifer.lawrence@example.com,F,30,new york
+21,Morgan Freeman,morgan.freeman@example.com,M,83,Chicago
+22,Brad Pitt,brad.pitt@example.com,M,57,Los Angeles
+23,Angelina Jolie,angelina.jolie@example.com,F,45,Los angeles
+24,George Clooney,george.clooney@example.com,M,59,New York
+25,Meryl Streep,meryl.streep@example.com,F,70,Boston
+26,Johnny Depp,johnny.depp@example.com,M,58,Los Angeles
+27,Sandra Bullock,sandra.bullock@example.com,F,54,Los angeles
+28,Hugh Jackman,hugh.jackman@example.com,M,52,New york
+29,Kate Winslet,kate.winslet@example.com,F,45,London
+30,Daniel Craig,daniel.craig@example.com,M,52,Chicago

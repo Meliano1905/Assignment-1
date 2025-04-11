@@ -1,0 +1,22 @@
+product_id,product_name,category,price,stock
+101,Widget A,Widgets,19.99,100
+102,Widget B,widgets,29.99,150
+103,Gadget X,Gadgets,9.99,200
+104,Gadget Y,Gadgets,14.99,80
+105,Thingamajig,Thingamajigs,39.99,50
+106,Doodad,Accessories,,75
+103,Gadget X,Gadgets,9.99,200
+107,Doohickey,Gadgets,12.99,60
+108,Contraption,Devices,49.99,40
+109,Apparatus,Devices,59.99,30
+110,Machine,Machinery,99.99,25
+111,Tool,Tools,15.99,120
+112,Instrument,Instruments,22.99,90
+113,Gizmo,Gadgets,7.99,300
+114,Implement,Tools,,110
+115,Device,Devices,79.99,35
+101,Widget A,Widgets,19.99,100
+102,Widget B,Widgets,29.99,150
+116,Appliance,Home Appliances,129.99,45
+117,Gadget Z,Gadgets,19.99,80
+118,Widget C,Widgets,24.99,70
